@@ -1,5 +1,5 @@
 # Bitfield
 
-Bitfield Reference Type in Swift
+A Non-negative fast container for Binary integer set-algebra in Swift.
 
-Faster than most.  On par with C impl.
+Faster than most other options.
